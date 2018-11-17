@@ -122,6 +122,9 @@ header {
         width: 22%;
     }
 
+    .navbar {
+        width: 50wh;
+    }
 }
 
 @media screen and (min-width: 795px) and (max-width: 1300px) {
