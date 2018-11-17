@@ -43,14 +43,6 @@ header {
 /****************************************************************************************************** MEDIA QUERIES/   /*/                       
 
 
-
-@media screen and (min-width: 600px) and (max-width: 790px) {
-    .container-fluid {
-        height: 300px;
-    }
-    
-}
-
 /*****************************************************************************************************/
 
 .container-fluid {
@@ -71,45 +63,4 @@ header {
     left: 12%;
 }
 
-@media screen and (min-width: 400px) and (max-width: 790px) {
-    .sections 
-    {
-        margin-left: -80px; }
 
-
-}
-
-
-    .navbar {
-        width: 50wh;
-    }
-}
-
-@media screen and (min-width: 795px) and (max-width: 1300px) {
-    .sections 
-    {
-        margin-left: -130px;
-
-}
-    
-}
-
-p {
-    font-size: 15px;
-}
-
-.grid {
-    padding: 5px;
-}
-
-@media screen and (min-width: 400px) and (max-width: 575px) {
-
-    .footer {
-        width: 50%;
-    }
-
-    .map {
-        width: 90%;
-    }
-
-}
