@@ -152,14 +152,4 @@ p {
         width: 90%;
     }
 
-    .navbar {
-        width: 40%;
-    }
-    
-}
-
-@media screen and (min-width: 400px) and (max-width: 700px) {
-    .navbar {
-        width: 20%;
-    }
 }
