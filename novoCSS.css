@@ -72,15 +72,13 @@ header {
         width: 100px;
     }
 
-    .navbar {
-        width: 50%;
-    }
 }
 @media screen and (max-width: 600px) and (min-width: 400px) {
 
     .logo {
         width: 0;
     }
+
 
 }
 
@@ -153,5 +151,5 @@ p {
     .map {
         width: 90%;
     }
-    
+
 }
