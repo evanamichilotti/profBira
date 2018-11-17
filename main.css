@@ -112,7 +112,11 @@ header {
 @media screen and (min-width: 400px) and (max-width: 790px) {
     .sections 
     {
-        margin-left: -80px;
+        margin-left: -80px; }
+
+        .logo {
+            width: 50%;
+        }
     
 }
 
